@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "hoser",
+        "noyywrap",
+        "TURBOC",
+        "yyconst",
+        "yyin",
+        "yyleng",
+        "yyless",
+        "yylex",
+        "yymore",
+        "yyout",
+        "yyrestart",
+        "YYSTATE",
+        "yyterminate",
+        "yytext",
+        "yyunput",
+        "YYWRAP"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
