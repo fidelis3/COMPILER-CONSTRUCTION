@@ -67,6 +67,29 @@ if (total > 50) {
 }
 ```
 
+## Lab 2: C++ Lexical Analyzer
+
+`LAB2` contains a lexical analyzer implemented in C++ (`lexical_analyzer.cpp`).
+It tokenizes a small program string and prints each lexeme with its token category.
+
+The analyzer currently works with categories such as:
+
+- Keywords
+- Identifiers
+- Constants
+- Punctuation
+- Operators and relational operators
+
+### How to Build and Run (Lab 2)
+
+```powershell
+cd .\LAB2
+g++ lexical_analyzer.cpp -o lexical_analyzer
+.\lexical_analyzer.exe
+```
+
+By default, it analyzes the sample program defined inside `main()`.
+
 
 
 
